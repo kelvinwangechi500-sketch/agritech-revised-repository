@@ -1,0 +1,39 @@
+{
+  "name": "AgriTech Solutions Kenya",
+  "short_name": "AgriTech",
+  "description": "Kenya's #1 Agricultural Marketplace — Livestock, Feeds, Vet Services & Farm Products",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafdf7",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "shopping", "food"],
+  "lang": "en-KE",
+  "dir": "ltr",
+  "shortcuts": [
+    {
+      "name": "Browse Livestock",
+      "url": "/livestock",
+      "description": "Browse livestock for sale"
+    },
+    {
+      "name": "Submit Request",
+      "url": "/request",
+      "description": "Request an item"
+    }
+  ]
+}
