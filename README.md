@@ -272,3 +272,4 @@ else router.push("/admin/dashboard");
 ---
 
 Built with ❤️ for Kenyan Farmers 🇰🇪 | **AgriTech Solutions** | 0768 464 997
+# agritech-revised-repository
